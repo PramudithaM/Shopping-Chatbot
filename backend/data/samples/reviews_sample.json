@@ -1,0 +1,67 @@
+[
+  {
+    "Unnamed: 0": 0,
+    "Clothing ID": 767,
+    "Age": 33,
+    "Title": null,
+    "Review Text": "Absolutely wonderful - silky and sexy and comfortable",
+    "Rating": 4,
+    "Recommended IND": 1,
+    "Positive Feedback Count": 0,
+    "Division Name": "Initmates",
+    "Department Name": "Intimate",
+    "Class Name": "Intimates"
+  },
+  {
+    "Unnamed: 0": 1,
+    "Clothing ID": 1080,
+    "Age": 34,
+    "Title": null,
+    "Review Text": "Love this dress!  it's sooo pretty.  i happened to find it in a store, and i'm glad i did bc i never would have ordered it online bc it's petite.  i bought a petite and am 5'8\".  i love the length on me- hits just a little below the knee.  would definitely be a true midi on someone who is truly petite.",
+    "Rating": 5,
+    "Recommended IND": 1,
+    "Positive Feedback Count": 4,
+    "Division Name": "General",
+    "Department Name": "Dresses",
+    "Class Name": "Dresses"
+  },
+  {
+    "Unnamed: 0": 2,
+    "Clothing ID": 1077,
+    "Age": 60,
+    "Title": "Some major design flaws",
+    "Review Text": "I had such high hopes for this dress and really wanted it to work for me. i initially ordered the petite small (my usual size) but i found this to be outrageously small. so small in fact that i could not zip it up! i reordered it in petite medium, which was just ok. overall, the top half was comfortable and fit nicely, but the bottom half had a very tight under layer and several somewhat cheap (net) over layers. imo, a major design flaw was the net over layer sewn directly into the zipper - it c",
+    "Rating": 3,
+    "Recommended IND": 0,
+    "Positive Feedback Count": 0,
+    "Division Name": "General",
+    "Department Name": "Dresses",
+    "Class Name": "Dresses"
+  },
+  {
+    "Unnamed: 0": 3,
+    "Clothing ID": 1049,
+    "Age": 50,
+    "Title": "My favorite buy!",
+    "Review Text": "I love, love, love this jumpsuit. it's fun, flirty, and fabulous! every time i wear it, i get nothing but great compliments!",
+    "Rating": 5,
+    "Recommended IND": 1,
+    "Positive Feedback Count": 0,
+    "Division Name": "General Petite",
+    "Department Name": "Bottoms",
+    "Class Name": "Pants"
+  },
+  {
+    "Unnamed: 0": 4,
+    "Clothing ID": 847,
+    "Age": 47,
+    "Title": "Flattering shirt",
+    "Review Text": "This shirt is very flattering to all due to the adjustable front tie. it is the perfect length to wear with leggings and it is sleeveless so it pairs well with any cardigan. love this shirt!!!",
+    "Rating": 5,
+    "Recommended IND": 1,
+    "Positive Feedback Count": 6,
+    "Division Name": "General",
+    "Department Name": "Tops",
+    "Class Name": "Blouses"
+  }
+]
